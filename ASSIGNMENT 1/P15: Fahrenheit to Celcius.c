@@ -1,5 +1,5 @@
 #include <stdio.h>
-//fahrenheit to Celcius
+//Fahrenheit to Celcius
 int main(){
 float F;
 printf("Fahrenheit: ");
@@ -11,3 +11,4 @@ float C = z*y;
 printf("Celcius: %f", C);
 return 0;
 }
+
