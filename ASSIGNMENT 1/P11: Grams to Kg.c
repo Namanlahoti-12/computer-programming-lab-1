@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Gram to Kg
+//GramS to Kg
 int main (){
 float grams;
 printf("Enter Grams: ");
@@ -8,3 +8,4 @@ float kg= grams/1000;
 printf("%f Kg", kg);
 return 0;
 }
+
