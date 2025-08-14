@@ -1,5 +1,6 @@
 
 #include <stdio.h>
+// Sum,Difference,Multiplication,Division
 
 int main(){
 float a;
@@ -19,6 +20,6 @@ printf("The difference is %f\n",difference);
 printf("The sum is %f\n", sum);
 printf("the product is %f\n", product);
 printf("The value of a/b is %f \n" ,division);
-
-    return 0;
+return 0;
 }
+
