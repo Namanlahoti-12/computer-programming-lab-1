@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//SWAPPING VALUES
 int main(){
 float a,b, x;
 printf("Enter a: ");
@@ -17,7 +17,6 @@ b=x;
 printf("After Swapping\n");
 printf("a = %f\n", a);
 printf("b = %f", x);
-
-
 return 0;
 }
+
