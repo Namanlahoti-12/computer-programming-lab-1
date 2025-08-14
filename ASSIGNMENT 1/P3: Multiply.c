@@ -12,7 +12,6 @@ scanf("%d", &b);
 
 int c=a*b;
 printf("The product is %d",c);
-
-
-    return 0;
+return 0;
 }
+
