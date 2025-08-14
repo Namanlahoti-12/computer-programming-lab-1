@@ -13,7 +13,6 @@ scanf("%f", &b);
 
 float c=a/b;
 printf("The value of a/b is %f",c);
-
-
-    return 0;
+return 0;
 }
+
