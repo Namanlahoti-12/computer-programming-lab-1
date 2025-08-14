@@ -13,7 +13,6 @@ scanf("%d", &b);
 
 int c=a-b;
 printf("The difference is %d",c);
-
-
-    return 0;
+return 0;
 }
+
