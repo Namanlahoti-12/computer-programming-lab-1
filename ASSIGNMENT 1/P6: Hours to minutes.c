@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Hours to Minutes
 int main (){
 float Hours;
 printf("Enter hours: ");
@@ -8,3 +8,4 @@ float minutes= Hours*60;
 printf("Minutes= %f", minutes);
 return 0;
 }
+
