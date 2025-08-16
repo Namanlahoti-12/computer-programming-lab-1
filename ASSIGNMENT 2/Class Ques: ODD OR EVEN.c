@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//ODD OR EVEN
 int main(){
 int number;
 printf("Enter number: ");
@@ -12,4 +12,5 @@ printf("number is odd");
 }
 return 0;
 }
+
 
