@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Net Salary
+//Net Sales
 int main(){
 float gross_sales;
 printf("Gross Sales: ");
@@ -25,3 +25,4 @@ return 0;
 
 
 }
+
