@@ -22,7 +22,6 @@ float net_sales = gross_sales - discount;
 printf("Discount: %f\n", discount);
 printf("Net Sales: %f\n", net_sales);
 return 0;
-
-
 }
+
 
