@@ -2,7 +2,7 @@
 
 int main() {
     int n, i;
-    int a = 1, b = 1, c;
+    int a = 0, b = 1, c;
 
     printf("Enter how many numbers: ");
     scanf("%d", &n);
@@ -18,3 +18,4 @@ int main() {
     }
 return 0;
 }
+
