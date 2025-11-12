@@ -29,7 +29,7 @@ int main() {
     printf("Enter n: ");
     scanf("%f", &n);
     printf("Operator (+, -, *, /): ");
-    scanf(" %c", &o);  // <-- notice the space before %c
+    scanf(" %c", &o);  
 
     if (o == '+')
         result = add(m, n);
@@ -47,3 +47,4 @@ int main() {
     printf("Result = %f\n", result);
     return 0;
 }
+
