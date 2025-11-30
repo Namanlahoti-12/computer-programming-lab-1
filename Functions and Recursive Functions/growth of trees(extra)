@@ -1,0 +1,23 @@
+#include<stdio.h>
+int p(int x,int y,int z){
+    
+for(int i=2002;i<=z;i++){
+    int a;
+    a=(y*x)/100;
+    x=x+a;
+    printf("%d-%d\n",i,a);
+}
+return 0;
+}
+int main(){
+    int x,y,z,a;
+printf("No of Trees initially:");
+scanf("%d",&x);
+printf("Growth Rate:");
+scanf("%d",&y);
+printf("Upto which year:");
+scanf("%d",&z);
+printf("2001-%d\n",x);
+
+p(x,y,z);
+return 0;}
